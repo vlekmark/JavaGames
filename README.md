@@ -1,3 +1,3 @@
 # JavaGames
 
-Some simple Java tabletop games
+Some simple Java board games
