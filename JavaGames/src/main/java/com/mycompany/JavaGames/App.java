@@ -1,4 +1,4 @@
-package com.mycompany.spelletjes;
+package com.mycompany.JavaGames;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.mycompany.spelletjes;
+package com.mycompany.JavaGames;
 
 public abstract class Game   {
     private Player player1;
